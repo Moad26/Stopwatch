@@ -1,2 +1,2 @@
 # Stopwatch
-A simple stopwatch created with html css and js
+A simple stopwatch created with html,css and js
